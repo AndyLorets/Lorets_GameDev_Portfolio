@@ -8,7 +8,7 @@ Welcome to my repository! Here, I showcase some of my projects that demonstrate 
 
 1. "Ninja: Ascension" - One of my most inspiring endeavors is the realization of a childhood dream. Like many of us, in my early years, I was an avid fan of the anime "Naruto." Enthralled by the prospect of leaping through trees, battling foes, and the sensation of hidden power, I yearned to play a game where these elements were part of an exhilarating virtual world. Over time and with accumulated experience in game development, I made the decision to turn my long-held dream into reality. The outcome of this determination is the project "Ninja: Ascension."
 
-**link on github - https://github.com/AndyLorets/Unity_Test_Projects/tree/main/Ninja%20Game(Main)**
+**link on github - [https://github.com/AndyLorets/Unity_Test_Projects/tree/main/Ninja%20Game(Main)](https://github.com/AndyLorets/Ninja-Ascension)**
 
 ## Game Development
 
