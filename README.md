@@ -6,9 +6,9 @@ Welcome to my repository! Here, I showcase some of my projects that demonstrate 
 
 ## My Personal Projects
 
-1. "Ninja: Ascension" - One of my most inspiring endeavors is the realization of a childhood dream. Like many of us, in my early years, I was an avid fan of the anime "Naruto." Enthralled by the prospect of leaping through trees, battling foes, and the sensation of hidden power, I yearned to play a game where these elements were part of an exhilarating virtual world. Over time and with accumulated experience in game development, I made the decision to turn my long-held dream into reality. The outcome of this determination is the project "Ninja: Ascension."
+1. "Ninja: Ascension" - One of my most inspiring endeavors is the realization of a childhood dream. Like many of us, in my early years, I was an avid fan of the anime "Naruto." Enthralled by the prospect of leaping through trees, battling foes, and the sensation of hidden power, I yearned to play a game where these elements were part of an exhilarating virtual world. Over time and with accumulated experience in game development, I made the decision to turn my long-held dream into reality. The outcome of this determination is the project **[Ninja: Ascension](https://github.com/AndyLorets/Ninja-Ascension)**
 
-**link on github - [Ninja: Ascension](https://github.com/AndyLorets/Ninja-Ascension)**
+2. Soon
 
 ## Game Development
 
@@ -40,6 +40,13 @@ I have had the opportunity to contribute as a programmer in the development of v
 
 9. **Red Ball: Secret Adventure**
    This project took us about 3-4 months of development. It was our effort on a Red Ball 4 clone. Google Play link - [Red Ball: Secret Adventure on Google Play](https://play.google.com/store/apps/details?id=com.herocraft.game.free.red.hero.ball.bounce.jump)
+
+## Test tasks 
+
+Here are the test assignments that I have completed. 
+
+1. [Unity GameDeveloper position](https://github.com/AndyLorets/TestProject_Tehcom) 
+2. [Unity TechDesign position](https://github.com/AndyLorets/Unity_Test_Task_TechDesign) 
 
 ## Note
 
