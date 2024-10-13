@@ -6,9 +6,11 @@ Welcome to my repository! Here, I showcase some of my projects that demonstrate 
 
 ## My Personal Projects
 
-1. "SkateTow: Rush" - an exciting arcade game with a unique mechanic of attaching to passing cars. Avoid collisions, collect coins, and enjoy thrilling rides on urban tracks! 🛹💨 **[SkateTow: Rush](https://yandex.ru/games/app/303740?lang=ru)**
+1. "SkateTow: Rush" - an exciting arcade game with a unique mechanic of attaching to passing cars. Avoid collisions, collect coins, and enjoy thrilling rides on urban tracks! 🛹💨 **[SkateTow: Rush](https://github.com/AndyLorets/LoretsGames.SkateTow-Rush)**
 
 2. "Ninja: Ascension" - One of my most inspiring endeavors is the realization of a childhood dream. Like many of us, in my early years, I was an avid fan of the anime "Naruto." Enthralled by the prospect of leaping through trees, battling foes, and the sensation of hidden power, I yearned to play a game where these elements were part of an exhilarating virtual world. Over time and with accumulated experience in game development, I made the decision to turn my long-held dream into reality. The outcome of this determination is the project **[Ninja: Ascension](https://github.com/AndyLorets/Ninja-Ascension)**
+
+3. "Agent: Shift" - Agent Shift is a mobile top-down shooter where the player controls a special agent codenamed “Shift.” The player's objective is to complete various missions, such as rescuing hostages, planting explosives, or infiltrating secured facilities. Each mission lasts from 5 to 10 minutes, offering dynamic gameplay with elements of stealth and tactical planning. **[Agent: Shift](https://github.com/AndyLorets/Agent_Shift)**
 
 ## Game Development
 
