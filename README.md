@@ -18,7 +18,7 @@
 
 I have had the opportunity to contribute as a programmer in various games, applying my skills to create engaging gaming experiences.
 
-1. **Flex Strike** - My favorite game and a project I initiated. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.FlexStrike)
+1. **Red Ball: Secret Adventure** - Took us 3-4 months to develop, our effort on a Red Ball 4 clone. [Google Play](https://play.google.com/store/apps/details?id=com.herocraft.game.free.red.hero.ball.bounce.jump)
 2. **Shoot Him** - Developed in one week to showcase efficiency within tight deadlines. [Google Play](https://play.google.com/store/apps/details?id=com.PixApp.ShootHim)
 3. **Little Forest Adventure** - Developed over a month after several reimaginings. [Google Play](https://play.google.com/store/apps/details?id=com.PixappGames.LittleForestAdvanture)
 4. **Bowling Jump** - Created spontaneously but still a part of my portfolio. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.BowlingJump)
@@ -26,8 +26,8 @@ I have had the opportunity to contribute as a programmer in various games, apply
 6. **Boxing Way** - An express project that turned out quite amusing. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.PunchHim)
 7. **Brick Break** - One of my first 2D games. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.BrickBreak)
 8. **Iron Tube** - Another quick project. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.IronTube)
-9. **Red Ball: Secret Adventure** - Took us 3-4 months to develop, our effort on a Red Ball 4 clone. [Google Play](https://play.google.com/store/apps/details?id=com.herocraft.game.free.red.hero.ball.bounce.jump)
-
+9. **Flex Strike** - My favorite game and a project I initiated. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.FlexStrike)
+    
 ## Test tasks 
 
 Here are the test assignments that I have completed:
