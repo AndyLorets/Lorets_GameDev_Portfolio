@@ -8,11 +8,11 @@
 
 ## My Personal Projects
 
-1. **[SkateTow: Rush](https://github.com/AndyLorets/LoretsGames.SkateTow-Rush)** - 🛹💨 An exciting arcade game with a unique mechanic of attaching to passing cars. Avoid collisions, collect coins, and enjoy thrilling rides on urban tracks!
+1. **[Agent: Shift](https://github.com/AndyLorets/Agent_Shift)** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/lxivT8lrs_o?si=9Y9_arGLhK8B7VHk)**
 
 2. **[Ninja: Ascension](https://github.com/AndyLorets/Ninja-Ascension)** - A childhood dream turned reality! Inspired by the anime "Naruto," this project brings tree-leaping, battles, and the sensation of hidden power into a thrilling virtual world.
 
-3. **[Agent: Shift](https://github.com/AndyLorets/Agent_Shift)** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/lxivT8lrs_o?si=9Y9_arGLhK8B7VHk)**
+3. **[SkateTow: Rush](https://github.com/AndyLorets/LoretsGames.SkateTow-Rush)** - 🛹💨 An exciting arcade game with a unique mechanic of attaching to passing cars. Avoid collisions, collect coins, and enjoy thrilling rides on urban tracks!
 
 ## Game Development
 
