@@ -19,14 +19,15 @@
 I have had the opportunity to contribute as a programmer in various games, applying my skills to create engaging gaming experiences.
 
 1. **Red Ball: Secret Adventure** - Took us 3-4 months to develop, our effort on a Red Ball 4 clone. [Google Play](https://play.google.com/store/apps/details?id=com.herocraft.game.free.red.hero.ball.bounce.jump)
-2. **Shoot Him** - Developed in one week to showcase efficiency within tight deadlines. [Google Play](https://play.google.com/store/apps/details?id=com.PixApp.ShootHim)
-3. **Little Forest Adventure** - Developed over a month after several reimaginings. [Google Play](https://play.google.com/store/apps/details?id=com.PixappGames.LittleForestAdvanture)
-4. **Bowling Jump** - Created spontaneously but still a part of my portfolio. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.BowlingJump)
-5. **Magic Him** - Inspired by artistic concepts but unfortunately didn't meet CPI expectations. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.MagicHim)
-6. **Boxing Way** - An express project that turned out quite amusing. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.PunchHim)
-7. **Brick Break** - One of my first 2D games. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.BrickBreak)
-8. **Iron Tube** - Another quick project. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.IronTube)
-9. **Flex Strike** - My favorite game and a project I initiated. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.FlexStrike)
+2. **Supermarket Simulator** - This project was completed as a freelance assignment. The development took almost two months. [Google Play](https://play.google.com/store/apps/details?id=com.supermarket.simulator.shop.manager)
+3. **Shoot Him** - Developed in one week to showcase efficiency within tight deadlines. [Google Play](https://play.google.com/store/apps/details?id=com.PixApp.ShootHim)
+4. **Little Forest Adventure** - Developed over a month after several reimaginings. [Google Play](https://play.google.com/store/apps/details?id=com.PixappGames.LittleForestAdvanture)
+5. **Bowling Jump** - Created spontaneously but still a part of my portfolio. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.BowlingJump)
+6. **Magic Him** - Inspired by artistic concepts but unfortunately didn't meet CPI expectations. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.MagicHim)
+7. **Boxing Way** - An express project that turned out quite amusing. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.PunchHim)
+8. **Brick Break** - One of my first 2D games. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.BrickBreak)
+9. **Iron Tube** - Another quick project. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.IronTube)
+10. **Flex Strike** - My favorite game and a project I initiated. [Google Play](https://play.google.com/store/apps/details?id=com.Pixapp.FlexStrike)
     
 ## Test tasks 
 
