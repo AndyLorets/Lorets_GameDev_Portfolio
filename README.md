@@ -33,8 +33,9 @@ I have had the opportunity to contribute as a programmer in various games, apply
 
 Here are the test assignments that I have completed:
 
-1. [Unity Game Developer position](https://github.com/AndyLorets/TestProject_Tehcom)
-2. [Unity Tech Design position](https://github.com/AndyLorets/Unity_Test_Task_TechDesign)
+1. [Unity Tech Design position]([https://github.com/AndyLorets/Unity_Test_Task_TechDesign])
+2. [Unity Game Developer position](https://github.com/AndyLorets/TestProject_Tehcom)
+3. [Unity Tech Design position](https://github.com/AndyLorets/Unity_Test_Task_TechDesign)
 
 ## Contact Me
 
