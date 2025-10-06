@@ -8,11 +8,13 @@
 
 ## My Personal Projects
 
-1. **[Agent: Shift](https://github.com/AndyLorets/Agent_Shift)** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/lxivT8lrs_o?si=9Y9_arGLhK8B7VHk)**
+1. **[Internet Cafe: Simulator](https://github.com/AndyLorets/Agent_Shift)** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/ETVQM9_u1s0)**
 
-2. **[Ninja: Ascension](https://github.com/AndyLorets/Ninja-Ascension)** - A childhood dream turned reality! Inspired by the anime "Naruto," this project brings tree-leaping, battles, and the sensation of hidden power into a thrilling virtual world.
+2. **[Agent: Shift](https://github.com/AndyLorets/Agent_Shift)** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/lxivT8lrs_o?si=9Y9_arGLhK8B7VHk)**
 
-3. **[SkateTow: Rush](https://github.com/AndyLorets/LoretsGames.SkateTow-Rush)** - 🛹💨 An exciting arcade game with a unique mechanic of attaching to passing cars. Avoid collisions, collect coins, and enjoy thrilling rides on urban tracks!
+3. **[Ninja: Ascension](https://github.com/AndyLorets/Ninja-Ascension)** - A childhood dream turned reality! Inspired by the anime "Naruto," this project brings tree-leaping, battles, and the sensation of hidden power into a thrilling virtual world.
+
+4. **[SkateTow: Rush](https://github.com/AndyLorets/LoretsGames.SkateTow-Rush)** - 🛹💨 An exciting arcade game with a unique mechanic of attaching to passing cars. Avoid collisions, collect coins, and enjoy thrilling rides on urban tracks!
 
 ## Game Development
 
@@ -33,7 +35,7 @@ I have had the opportunity to contribute as a programmer in various games, apply
 
 Here are the test assignments that I have completed:
 
-1. [Unity Tech Design position](https://github.com/AndyLorets/Test_3_AndrewLorets.git)
+1. [Unity Game Developer position](https://github.com/AndyLorets/Test_3_AndrewLorets.git)
 2. [Unity Game Developer position](https://github.com/AndyLorets/TestProject_Tehcom)
 3. [Unity Tech Design position](https://github.com/AndyLorets/Unity_Test_Task_TechDesign)
 
