@@ -8,7 +8,7 @@
 
 ## My Personal Projects
 
-1. **[Internet Cafe: Simulator (Link will be provided)]** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/ETVQM9_u1s0)**
+1. **[Internet Cafe: Simulator (Link will be provided upon request.)]** - Internet café simulator where the player manages resources and staff, optimizes operations, and upgrades services to maximize profit and customer satisfaction. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/ETVQM9_u1s0)**
 
 2. **[Agent: Shift](https://github.com/AndyLorets/Agent_Shift)** - A mobile top-down shooter where you control a special agent completing dynamic missions with stealth and tactical elements. Watch the gameplay here: **[YouTube ▶️](https://youtu.be/lxivT8lrs_o?si=9Y9_arGLhK8B7VHk)**
 
